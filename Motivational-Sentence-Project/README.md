@@ -1,6 +1,5 @@
 ## _Html ve css özelliklerini kullanarak bir site oluşturdum. Öğrendiklerimi paylaşmak istedim._ <br>
 <p>&nbsp</p>
-
 [ ***BURADAN ULAŞABİLİRSİNİZ*** ](https://fidanmuhammed.github.io/full-stack-web-development-projects/Motivational-Sentence-Project/)
 
  <img src="./images/final.png">
