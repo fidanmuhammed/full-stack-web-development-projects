@@ -1,7 +1,10 @@
-## _Html ve css özelliklerini kullanarak bir site oluşturdum. Öğrendiklerimi paylaşmak istedim._
+## _Html ve css özelliklerini kullanarak bir site oluşturdum. Öğrendiklerimi paylaşmak istedim._ <br>
 <p>&nbsp</p>
-[***BURADAN ULAŞABİLİRSİNİZ***](https://fidanmuhammed.github.io/full-stack-web-development-projects/Motivational-Sentence-Project/)
-<br> <img src="./images/final.png">
+
+[ ***BURADAN ULAŞABİLİRSİNİZ*** ](https://fidanmuhammed.github.io/full-stack-web-development-projects/Motivational-Sentence-Project/)
+
+ <img src="./images/final.png">
+<p>&nbsp</p>
 <p>&nbsp</p>
 Bu site bir tane resimden ve motive eden bir sözden oluşuyor. Resmi ortalamak için div kullandım. Ortalama işlemi epey uğraştırdı çünkü başta resmin genişliğini değiştirmemiştim. Eğer genişliği öylece bırakır manuel olarak değiştirmezseniz yani `width:auto` olduğu zaman bu tasarımlarınızda tutarlılığınızı engelleyebiliyor. Bu yüzden o kısmı `width:100%` olarak değiştirdim.
 <p>&nbsp</p> 
