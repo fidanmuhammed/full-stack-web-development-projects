@@ -1,0 +1,201 @@
+* {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  box-sizing: border-box;
+  font-family: "Jost", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: italic;
+}
+
+body {
+  background-color: #eeeeee;
+}
+
+.top-nav {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  padding: 20px;
+  height: 60px;
+  background-color: #a8bd68;
+  font-size: larger;
+  white-space: nowrap;
+}
+.tel {
+  text-decoration: none;
+  color: #000000;
+}
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  background-color: #e0e0e0;
+  height: 90px;
+  width: 100%;
+}
+.logo {
+  display: flex;
+}
+.logo-1 {
+  display: flex;
+  height: 200px;
+  left: 50px;
+  bottom: 60px;
+  position: relative;
+  cursor: pointer;
+}
+.hizmet {
+  padding: 35px;
+  cursor: pointer;
+}
+.uye {
+  padding: 35px;
+  cursor: pointer;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.fatura {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+}
+.fatura-ode {
+  display: flex;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 50px;
+}
+.fatura-1 {
+  height: 60px;
+  background-color: #ff6e40;
+  position: relative;
+  bottom: 5px;
+  border-radius: 8px;
+}
+.fat {
+  display: flex;
+  justify-content: space-around;
+  font-size: 25px;
+  height: 100px;
+  box-sizing: border-box;
+  padding: 20px;
+  margin-bottom: 40px;
+}
+
+.odeme {
+  display: flex;
+  justify-content: space-around;
+  padding-left: 30px;
+}
+
+.odeme .odeme-1 {
+  background-color: #90a4ae;
+}
+.odeme .odeme-2 {
+  background-color: #607d8b;
+}
+.odeme .odeme-3 {
+  background-color: #546e7a;
+}
+.od {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 120px;
+  width: 30%;
+  background-color: yellowgreen;
+  font-size: x-large;
+  font-weight: bold;
+  border-radius: 10px;
+}
+.iconn {
+  display: flex;
+  justify-content: space-around;
+  position: relative;
+}
+
+.diger {
+  display: flex;
+  justify-content: space-around;
+}
+.diger .diger-1 {
+  background-color: #536dfe;
+}
+.diger .diger-2 {
+  background-color: #3949ab;
+}
+.dg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 120px;
+  width: 30%;
+  background-color: yellowgreen;
+  font-size: x-large;
+  font-weight: bold;
+  border-radius: 10px;
+}
+.iconn-1 {
+  display: flex;
+  justify-content: space-around;
+  position: relative;
+}
+.footer {
+  display: flex;
+  padding-left: 100px;
+  padding-top: 15px;
+  background-color: #536dfe;
+  color: white;
+  height: 300px;
+  font-size: 20px;
+}
+.footer .f {
+  flex: 1;
+}
+.yazi {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+  font-size: x-large;
+  height: 400px;
+}
+p {
+  height: 40px;
+}
+.liste {
+  display: flex;
+  flex-direction: column;
+  padding-top: 25px;
+}
+.footer .liste li {
+  list-style-type: none;
+  height: 40px;
+}
+.liste-1 {
+  display: flex;
+  flex-direction: column;
+  padding-top: 20px;
+  height: 200px;
+}
+.liste-2 {
+  display: flex;
+  padding-top: 20px;
+  gap: 20px;
+}
+.download {
+  display: flex;
+  flex-direction: column;
+  margin-top: 15px;
+  padding-left: 10px;
+  gap: 10px;
+  height: 40px;
+  width: 400px;
+}
